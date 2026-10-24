@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+accounts.txt
+keys.txt
+.env
+.venv/
